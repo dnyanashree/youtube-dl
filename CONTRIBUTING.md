@@ -417,7 +417,7 @@ Use `unified_strdate` for uniform `upload_date` or any `YYYYMMDD` meta field ext
 
 Explore [`youtube_dl/utils.py`](https://github.com/ytdl-org/youtube-dl/blob/master/youtube_dl/utils.py) for more useful convenience functions.
 
-#### More examples
+#### More examples:
 
 ##### Safely extract optional description from parsed JSON
 ```python
